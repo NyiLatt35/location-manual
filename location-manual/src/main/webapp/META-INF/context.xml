@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context>
+	  <Resource name="jdbc/LocationDB"
+            type="javax.sql.DataSource"
+            username="root"
+            password="admin"
+            driverClassName="com.mysql.cj.jdbc.Driver"
+            url="jdbc:mysql://localhost:3306/location_db"
+            />
+</Context>
